@@ -23,3 +23,7 @@ The data contains mock train ticket sales for National Rail in the UK, consistin
 - The main reasons for train delays are due to **Weather**, **Signal Failure** and **Technical Issue**. 
 
 ## Recommendations
+- Offer bundled ticket deals or promotions to attract more passengers and increase revenue.
+- Implement measures against adverse weather conditions and conduct regular techincal checks to reduce cancellations and optimize efficient travel time.
+- Provide training or resources to ensure sufficient amount of staff members to reduce delays.
+- Provide additional perks and amenities for first class experience so that passengers would be willing to pay for premium services. 
